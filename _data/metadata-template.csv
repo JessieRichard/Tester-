@@ -1,2 +1,6 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,Coat of Arms and Beer ,image/jpg,beerguy.jpg,2021-10-23,Travel; Decorations,Edmundston,47.35461904,-68.21111231,A coat of arms with a beer can. 
+item2,Nova Scotia Field,image/jpg,field.jpg,2021-10-24,Travel; Landscape ,Pugwash Nova Scotia,45.85061595,-63.66069668,Landscape image.
+item3,Portrait of Kelly,image/jpg,mom.jpg,2021-10-24,Travel; Portrait,"Mill River, PEI ",46.75508241,-64.15076781,Portrait of Mom.
+item4,Water View from my boots,image/jpg,pei.jpg,2021-10-25,Travel; Water,"Mill River, PEI ",46.75508241,-64.15076781,Water view from my home.
+item5,Sunset View,image/jpg,sunset.jpg,2021-10-24,Travel; Water,"Mill River, PEI ",46.75508241,-64.15076781,Sunset view from my home.
